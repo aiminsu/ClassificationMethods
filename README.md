@@ -1,5 +1,6 @@
-# ClassificationMethods
-Compare several commonly used classification methods, including Perceptron, AdaLine, Logistic Regression, SVM, etc.
+# Machine Learning Basics
+This project will focus on some machine learning basic problems, including classification, regression, clustering, etc. Some commonly used methods will be explained and implemented for study.
 
-## Perceptron
+---
+## Binary Classification
 
